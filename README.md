@@ -21,4 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications made to Html
+===================
+Christmas Carol:
+* changed the <h4> to <figcaption> for all the images
 
+Ulysses:
+* added a <figcaption> for all images
+
+Walden:
+* added a <figcaption> for all images
