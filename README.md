@@ -24,10 +24,10 @@ Code is licensed under the Apache 2.0 license.
 Modifications made to Html
 ===================
 Christmas Carol:
-* changed the <h4> to <figcaption> for all the images
+* changed the h4 tag to figcaption tag for all the images
 
 Ulysses:
-* added a <figcaption> for all images
+* added a figcaption tag for all images
 
 Walden:
-* added a <figcaption> for all images
+* added a figcaption tag for all images
