@@ -1,7 +1,11 @@
-body { margin-left: 20%;
+body { 
+        margin-left: 20%;
     margin-right: 20%;
     background: #faebd0;
-    text-align: justify }
+    text-align: justify;
+    background-image: url("images/background.jpg") 
+
+}
 
 p {text-indent: 1em;
 margin-top: 0.25em;
